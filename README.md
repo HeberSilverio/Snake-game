@@ -1,6 +1,6 @@
 # Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/HeberSilverio/Netflix-clone/main/CloneNetflix.PNG)
+![Snake Game](https://raw.githubusercontent.com/HeberSilverio/Snake-game/main/imagens/Snake-game.PNG)
 
 ### 🎫 Descrição do projeto
 
@@ -14,7 +14,7 @@ Adicionei um estilo visual ao jogo e adicionei as funções: Pontuação (Score)
 É possível clonar o repositório para criar uma cópia local no seu computador e você poderá abrir em local host e também editar os arquivos no seu editor de preferência.
 
 ``` Clonando o repositório
-git clone https://github.com/HeberSilverio/Curriculo.git
+git clone https://github.com/HeberSilverio/Snake-game.git
 
 # Execute o HTML abrindo o arquivo index.html no navegador
 Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
